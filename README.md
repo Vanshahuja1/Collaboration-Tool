@@ -1,6 +1,6 @@
 # Collaborative LiveDocs
 
-A real-time collaborative text editor application developed by **Vansh**, inspired by Google Docs, with enhanced features for modern collaboration needs. This project demonstrates expertise in real-time application development and advanced web technologies.
+A real-time collaborative text editor application developed by me, inspired by Google Docs, with enhanced features for modern collaboration needs. This project demonstrates expertise in real-time application development and advanced web technologies.
 
 ---
 
